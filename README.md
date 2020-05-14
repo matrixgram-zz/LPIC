@@ -1,4 +1,4 @@
 # LPIC: Linux Professional Institute Certificat
 
-References:
+Reference:
 https://www.lpi.org/
