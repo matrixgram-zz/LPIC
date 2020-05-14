@@ -2,7 +2,12 @@
 
 LPIC-Essensials
 
-LPIC1-101
+LPIC1: Linux Administrator
++ LPIC1-101: 
+- System Architecture
+- Linux Installation and Package Management
+- GNU and Unix Commands
+- Devices, Linux Filesystems, Filesystem Hierarchy Standard
 LPIC1-102
 
 LPIC2-201
