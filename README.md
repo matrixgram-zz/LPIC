@@ -1,4 +1,4 @@
-# LPIC
+# LPIC: Linux Professional Institute Certificat
 
-references
-https://www.lpi.org/our-certifications/exam-101-objectives
+References:
+https://www.lpi.org/
