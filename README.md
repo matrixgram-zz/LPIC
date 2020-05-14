@@ -2,7 +2,7 @@
 
 LPIC-Essensials
 
--LPIC1: Linux Administrator
+- LPIC1: Linux Administrator
   + LPIC1-101: 
     - 101.System Architecture
     - 102.Linux Installation and Package Management
